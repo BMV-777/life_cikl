@@ -2,6 +2,7 @@
   "name": "5-life_cikl",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://bmv-777.github.io/life_cikl",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
